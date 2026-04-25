@@ -1,0 +1,6 @@
+
+langchain langchain-mistralai python-dotenv
+pytz
+fastapi
+uvicorn
+twilio
