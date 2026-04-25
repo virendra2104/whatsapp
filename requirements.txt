@@ -1,5 +1,6 @@
 
-langchain langchain-mistralai 
+langchain 
+langchain-mistralai 
 dotenv
 pytz
 fastapi
